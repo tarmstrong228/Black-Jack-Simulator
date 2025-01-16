@@ -13,7 +13,7 @@ Mission<br />
 Progress<br />
   Jan 12 - Project begins, basic structures and mechanics implemented, debugging necessary<br />
   Jan 13 - Discovered much more debugging was necessary, likely made the game worse (oops)<br />
-  Jan 16 - More debugging ): , github initialized for backup purposes<br />
+  Jan 16 - More debugging :( , github initialized for backup purposes<br />
 
 Projected Timeline<br />
   Jan 19 - First three mission statements completed<br />
