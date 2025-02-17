@@ -21,6 +21,6 @@ Projected Timeline<br />
   Late Jan - Fifth mission statement complete<br />
   ??? - Sixth mission statement complete (uncertian if this update will actually be added)<br />
 
-*I know these timeline dates are very spread out for a project worth like a single day of work, but its my project so I make the rules*<br />
+*I know these timeline dates are very spread out for a project worth like a single day of work, but its my project so I make the rules >_<*<br />
   
   
